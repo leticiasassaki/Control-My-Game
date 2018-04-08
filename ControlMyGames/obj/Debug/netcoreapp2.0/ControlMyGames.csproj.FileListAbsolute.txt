@@ -1,0 +1,12 @@
+C:\Prova_Login\Teste\ControlMyGames\ControlMyGames\bin\Debug\netcoreapp2.0\ControlMyGames.deps.json
+C:\Prova_Login\Teste\ControlMyGames\ControlMyGames\bin\Debug\netcoreapp2.0\ControlMyGames.runtimeconfig.json
+C:\Prova_Login\Teste\ControlMyGames\ControlMyGames\bin\Debug\netcoreapp2.0\ControlMyGames.runtimeconfig.dev.json
+C:\Prova_Login\Teste\ControlMyGames\ControlMyGames\bin\Debug\netcoreapp2.0\ControlMyGames.dll
+C:\Prova_Login\Teste\ControlMyGames\ControlMyGames\bin\Debug\netcoreapp2.0\ControlMyGames.pdb
+C:\Prova_Login\Teste\ControlMyGames\ControlMyGames\obj\Debug\netcoreapp2.0\ControlMyGames.csproj.CoreCompileInputs.cache
+C:\Prova_Login\Teste\ControlMyGames\ControlMyGames\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+C:\Prova_Login\Teste\ControlMyGames\ControlMyGames\obj\Debug\netcoreapp2.0\ControlMyGames.AssemblyInfoInputs.cache
+C:\Prova_Login\Teste\ControlMyGames\ControlMyGames\obj\Debug\netcoreapp2.0\ControlMyGames.AssemblyInfo.cs
+C:\Prova_Login\Teste\ControlMyGames\ControlMyGames\obj\Debug\netcoreapp2.0\ControlMyGames.dll
+C:\Prova_Login\Teste\ControlMyGames\ControlMyGames\obj\Debug\netcoreapp2.0\ControlMyGames.pdb
+C:\Prova_Login\Teste\ControlMyGames\ControlMyGames\obj\Debug\netcoreapp2.0\ControlMyGames.csprojResolveAssemblyReference.cache
