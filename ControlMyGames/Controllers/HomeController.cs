@@ -1,9 +1,11 @@
 ﻿using System.Diagnostics;
 using Microsoft.AspNetCore.Mvc;
 using ControlMyGames.Models;
+using Microsoft.AspNetCore.Authorization;
 
 namespace ControlMyGames.Controllers
 {
+    [Authorize]
     public class HomeController : Controller
     {
         public IActionResult Index()

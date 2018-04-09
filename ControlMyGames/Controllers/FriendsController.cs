@@ -1,9 +1,7 @@
 ﻿using System;
-using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
-using Microsoft.AspNetCore.Mvc.Rendering;
 using Microsoft.EntityFrameworkCore;
 using ControlMyGames.Data;
 using ControlMyGames.Models;
@@ -11,7 +9,7 @@ using Microsoft.AspNetCore.Authorization;
 
 namespace ControlMyGames.Controllers
 {
-    [Authorize()]
+    [Authorize]
     public class FriendsController : Controller
     {
         private readonly ApplicationDbContext _context;
@@ -205,5 +203,6 @@ namespace ControlMyGames.Controllers
         {
             return _context.Friends.Any(e => e.ID == id);
         }
+        
     }
 }

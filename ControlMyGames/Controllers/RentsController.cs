@@ -11,7 +11,7 @@ using Microsoft.AspNetCore.Authorization;
 
 namespace ControlMyGames.Controllers
 {
-    [Authorize()]
+    [Authorize]
     public class RentsController : Controller
     {
         private readonly ApplicationDbContext _context;
