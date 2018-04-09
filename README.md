@@ -1,4 +1,4 @@
-# ControleJogo
+# Control My Game
 This project is to manage your games.
 
 I used:
